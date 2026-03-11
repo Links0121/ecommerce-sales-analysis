@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("../datas/ecommerce_sales.csv")
+df = pd.read_csv("../datas/Ecommerce_data.csv")
 
 # Preview data
 print(df.head())
